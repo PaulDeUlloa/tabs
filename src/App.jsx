@@ -11,7 +11,7 @@ function App() {
   ]
   return (
     <div className="App">
-      <Tabs itemArr={selections} />
+      <Tabs selectionsArr={selections} />
     </div>
   );
 }
